@@ -50,3 +50,9 @@ body.ltr .offcanvas-menu .offcanvas-inner .sp-module ul > li.menu-parent > a > .
 .sppb-panel-default>.sppb-panel-heading {
     background: #000000;
 }
+#offcanvas-toggler > .fa:hover, #offcanvas-toggler > .fa:focus, #offcanvas-toggler > .fa:active {
+  color: #ffffff;
+}
+#offcanvas-toggler > .fa {
+  color: #8a8a8a;
+}
