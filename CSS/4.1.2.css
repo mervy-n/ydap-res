@@ -1,0 +1,63 @@
+/* Ⓒ Mervy Newoor */
+/* VER 4.1.1  2022 */
+
+.list-group-item{background-color: #252525;}
+
+body {
+  background-color: black;
+  color: white;
+}
+#sp-header{
+	background: rgba(0, 0, 0, 0.95);
+	color: rgba(255, 255, 255, 0.95);
+}
+.offcanvas-menu{
+	background-color: rgba(0, 0, 0, 0.95);
+	color: rgba(255, 255, 255, 0.95);
+}
+.offcanvas-menu .offcanvas-inner .sp-module ul > li a:hover{
+	background: rgba(0, 0, 0, 0.95);
+	color: rgba(255, 255, 255, 0.95);
+}
+.sp-megamenu-parent .sp-dropdown .sp-dropdown-inner {
+    background: #000000;
+    padding: 15px;
+}
+.offcanvas-menu .offcanvas-inner .sp-module ul > li a 
+{  color: white !important; font-size: 16px; padding: 5px 0; }
+.sp-megamenu-parent > li:hover > a {
+  color: #FFD851;
+}
+.sp-megamenu-parent > li.active > a, 
+.sp-megamenu-parent > li:hover > a {color: #FFC152;}
+#sp-header .sp-megamenu-parent > li > a:hover, 
+#sp-header .sp-megamenu-parent > li > a:focus {color: #FFC152;}
+.sp-megamenu-parent > li > a {color: #FFC152;}
+.sp-megamenu-parent .sp-dropdown li.sp-menu-item > a {
+  color: #FFC152;
+}
+.sp-megamenu-parent > li.active > a, .sp-megamenu-parent > li.active:hover > a {
+  color: #FFC152;
+}
+body.ltr .offcanvas-menu .offcanvas-inner .sp-module ul > li.menu-parent > a > .menu-toggler, body.ltr .offcanvas-menu .offcanvas-inner .sp-module ul > li.menu-parent > .menu-separator > .menu-toggler {
+  right: 0; color: white;
+}
+.sp-megamenu-parent .sp-dropdown li.sp-menu-item > a:hover {
+  color: #FFC152;
+}
+.sppb-panel {
+    background-color: rgb(0, 0, 0);
+    border-width: 1px 0px 0px;
+    border-style: solid;
+    border-color: #4C4C4C;
+    border-image: initial;
+}
+.sppb-panel-default>.sppb-panel-heading {
+    background: #000000;
+}
+#offcanvas-toggler > .fa:hover, #offcanvas-toggler > .fa:focus, #offcanvas-toggler > .fa:active {
+  color: #ffffff;
+}
+#offcanvas-toggler > .fa {
+  color: #8a8a8a;
+}
