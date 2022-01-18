@@ -1,0 +1,98 @@
+/* Ⓒ Mervy Newoor */
+/* VER 4.2.2  2022 */
+
+.list-group-item{background-color: #252525;}
+
+body {
+  background-color: black;
+  color: white;
+}
+#sp-header{
+	background: rgba(0, 0, 0, 0.95);
+	color: rgba(255, 255, 255, 0.95);
+}
+.offcanvas-menu{
+	background-color: rgba(0, 0, 0, 0.95);
+	color: rgba(255, 255, 255, 0.95);
+}
+.offcanvas-menu .offcanvas-inner .sp-module ul > li a:hover{
+	background: rgba(0, 0, 0, 0.95);
+	color: rgba(255, 255, 255, 0.95);
+}
+.sp-megamenu-parent .sp-dropdown .sp-dropdown-inner {
+    background: #000000;
+    padding: 15px;
+}
+.offcanvas-menu .offcanvas-inner .sp-module ul > li a 
+{  color: white !important; font-size: 16px; padding: 5px 0; }
+.sp-megamenu-parent > li:hover > a {
+  color: #FFD851;
+}
+.sp-megamenu-parent > li.active > a, 
+.sp-megamenu-parent > li:hover > a {color: #FFC152;}
+#sp-header .sp-megamenu-parent > li > a:hover, 
+#sp-header .sp-megamenu-parent > li > a:focus {color: #FFC152;}
+.sp-megamenu-parent > li > a {color: #FFC152;}
+.sp-megamenu-parent .sp-dropdown li.sp-menu-item > a {
+  color: #FFC152;
+}
+.sp-megamenu-parent > li.active > a, .sp-megamenu-parent > li.active:hover > a {
+  color: #FFC152;
+}
+body.ltr .offcanvas-menu .offcanvas-inner .sp-module ul > li.menu-parent > a > .menu-toggler, body.ltr .offcanvas-menu .offcanvas-inner .sp-module ul > li.menu-parent > .menu-separator > .menu-toggler {
+  right: 0; color: white;
+}
+.sp-megamenu-parent .sp-dropdown li.sp-menu-item > a:hover {
+  color: #FFC152;
+}
+.sppb-panel {
+    background-color: rgb(0, 0, 0);
+    border-width: 1px 0px 0px;
+    border-style: solid;
+    border-color: #4C4C4C;
+    border-image: initial;
+}
+.sppb-panel-default>.sppb-panel-heading {
+    background: #000000;
+}
+#offcanvas-toggler > .fa:hover, #offcanvas-toggler > .fa:focus, #offcanvas-toggler > .fa:active {
+  color: #ffffff;
+}
+#offcanvas-toggler > .fa {
+  color: #8a8a8a;
+}
+
+.form-control{color:#495057;background-color: #252525;border:#252525;}
+.input-group-text{color:#495057;background-color:#252525;border:1px solid #252525;}
+.form-control:focus{color:#495057;background-color:#252525;border-color:#252525;}
+
+.sp-megamenu-parent .sp-dropdown li.sp-menu-item.active > a {
+    color: #FFC152;
+}
+
+input[type="text"]:not(.form-control), input[type="email"]:not(.form-control):focus, input[type="url"]:not(.form-control):focus, input[type="date"]:not(.form-control):focus, input[type="password"]:not(.form-control):focus, input[type="search"]:not(.form-control):focus, input[type="tel"]:not(.form-control):focus, input[type="number"]:not(.form-control):focus, select:not(.form-control):focus {
+  color: #495057;
+  background-color: #252525;
+  border-color: #252525;
+}
+
+input[type="text"]:not(.form-control), input[type="email"]:not(.form-control), input[type="url"]:not(.form-control), input[type="date"]:not(.form-control), input[type="password"]:not(.form-control), input[type="search"]:not(.form-control), input[type="tel"]:not(.form-control), input[type="number"]:not(.form-control), select:not(.form-control) {
+  color: #495057;
+  background-color: #252525;
+  border: 1px solid #252525;
+}
+
+legend{color: #495057;}
+
+label {
+    color: #495057;
+}
+
+input[type="text"]:not(.form-control):focus, input[type="email"]:not(.form-control):focus, input[type="url"]:not(.form-control):focus, input[type="date"]:not(.form-control):focus, input[type="password"]:not(.form-control):focus, input[type="search"]:not(.form-control):focus, input[type="tel"]:not(.form-control):focus, input[type="number"]:not(.form-control):focus, select:not(.form-control):focus {
+  color: #495057;
+  background-color: #252525;
+  border-color: #252525;
+  outline: 0;
+}
+
+.bfQuickMode textarea:focus, .bfQuickMode input[type='text']:focus, .bfQuickMode input[type='password']:focus, .bfQuickMode select:focus {background-color: #252525; color: #495057;}
