@@ -1,1 +1,1 @@
-Notes about suppliers
+Amazon notes
