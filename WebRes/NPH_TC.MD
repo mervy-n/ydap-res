@@ -27,11 +27,11 @@ Health and safety
 
 2. Cooking & hot foods are not permitted in NPH. 
 
-3. Prior to commencing work, clients should familiarise themselves with the location of the clearly-marked fire exit in the building, the fire extinguishers provided both within NPH or building. 
+3. Prior to commencing work, clients should familiarise themselves with the location of the clearly-marked fire exit in the building. There are fire extinguishers provided both within NPH and the building. 
 
 Terms of Use of NPH and equipment is at the client's own risk.
 
-The client hereby waives rights to seek legal redress for mishaps, accidents, and/or losses while on our premises.
+By accepting this agreement, the client waives rights to seek legal redress for mishaps, accidents, or losses while on our premises.
 
 The client agrees to leave NPH, building in the same condition as when The client arrived.
 
@@ -39,7 +39,7 @@ The client is solely responsible for any legal infractions they or members of th
 
 The client agrees to be solely responsible for the conduct and welfare of all persons accompanying the client whilst in NPH.
 
-The client understands that if dangerous or negligent practices or activities are engaged during the hire period, NPH reserves the right to stop the session and require the client and the client’s party to leave immediately.
+The client understands that if found guilty of dangerous or negligent practices or activities during the hire period, NPH reserves the right to stop the session and require the client and the client’s party to leave immediately.
 
 The client agrees to hold NPH, its agents, representatives, and anyone acting on behalf of NPH harmless from any action, legal or otherwise, that results from the client’s conduct.
 
